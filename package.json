@@ -8,8 +8,8 @@
 	},
 	"dependencies": {
 		"express": "^4.12.4",
-		"sqlite3": "*",
-		"sequelize": "*"
+		"sequelize": "*",
+		"sqlite3": "https://github.com/mapbox/node-sqlite3/archive/refs/tags/v4.2.0.tar.gz"
 	},
 	"keywords": [
 		"node",
